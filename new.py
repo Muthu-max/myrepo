@@ -1,0 +1,2 @@
+muthu = "apple"
+print(muthu)
